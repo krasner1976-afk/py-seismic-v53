@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Krasner
+    given-names: Pre-Krasner Research Group
+title: "py-seismic-v53: Reference Multi-Physics Short-Term Seismic Hazard Solver"
+version: 53.0.0
+doi: 10.5281/zenodo.12984501
+date-released: 2026-09-12
+url: "https://github.com/v53-seismic/py-seismic-v53"
